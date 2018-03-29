@@ -9,6 +9,10 @@ python3 env
 java env
 1.jdk
 2.eclipse
-3.mysql 
+3.mysql cluster
 4.tomcat
 5.oracle server
+6.mongob
+7.redis
+8.nodeJS
+9.apache server
